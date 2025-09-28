@@ -4,5 +4,8 @@
     "axios": "^1.8.4",
     "express": "^4.21.2",
     "tailwindcss": "^4.0.15"
+  },
+  "scripts": {
+    "start": "node index.js"
   }
 }
